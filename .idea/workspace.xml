@@ -156,7 +156,7 @@
       <updated>1608440428634</updated>
       <workItem from="1608440429657" duration="7613000" />
       <workItem from="1608449653414" duration="23000" />
-      <workItem from="1608449709898" duration="10247000" />
+      <workItem from="1608449709898" duration="10647000" />
     </task>
     <servers />
   </component>
@@ -176,10 +176,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="1838" y="126" width="1881" height="1015" maximized="true" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608482475065" />
-    <state x="55" y="0" width="1881" height="1015" key="dock-window-3" timestamp="1608486786652">
+    <state x="55" y="0" width="1881" height="1015" key="dock-window-3" timestamp="1608488683472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="55" y="0" width="1881" height="1015" key="dock-window-3/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608486786652" />
+    <state x="55" y="0" width="1881" height="1015" key="dock-window-3/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608488683472" />
     <state x="2459" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1608450696297">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -189,7 +189,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/resources/views/events/create1.blade.php</url>
+          <url>file://$PROJECT_DIR$/resources/views/events/create.blade.php</url>
           <line>73</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>

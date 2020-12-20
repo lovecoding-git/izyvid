@@ -17,7 +17,7 @@ Route::get('/', function () {
     return view('events.index');
 });
 Route::get('/events/create', function () {
-    return view('events.create1');
+    return view('events.create');
 });
 Route::get('/events/{id}/edit', function ($id) {
     $event = \App\Event::findorfail($id);
