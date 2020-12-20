@@ -55,8 +55,6 @@ class Event extends Model
     }
     public function mergeAttributes($request)
     {
-        \Log::info($request->is_active);
-        \Log::info($request->featured);
         $request->merge(['is_active'=>$request->is_active?1:0]);
         $request->merge(['featured'=>$request->featured?1:0]);
         $request->merge(['searchable'=>$request->searchable?1:0]);
